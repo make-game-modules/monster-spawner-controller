@@ -1,6 +1,6 @@
 # 2D Monster Spawner Controller
 
-[中文](https://github.com/make-game-modules/MonsterSpawnerController2D/blob/main/README.zh-cn.md)
+[中文](https://github.com/make-game-modules/monster-spawner-controller/blob/main/README.zh-cn.md)
 
 This project provides a Unity script that spawns monsters within a specified range in Unity, while maintaining a certain safe zone around the protagonist.
 
